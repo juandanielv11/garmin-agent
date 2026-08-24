@@ -1,4 +1,6 @@
 activityId,date,name,distance_km,duration_min,avg_pace_min_per_km,avg_hr,max_hr,elevation_gain_m,calories,aerobic_training_effect,anaerobic_training_effect
+24091582898,2026-08-23,Carrera,1.42,33.9,23.87,125.0,167.0,2.0,231.0,1.5,0.0
+24091448302,2026-08-23,Ciudad de Panamá - 10k casco,5.67,38.0,6.69,163.0,176.0,11.0,548.0,3.5999999046325684,0.0
 24055453146,2026-08-20,Ciudad de Panamá Carrera,5.84,40.2,6.89,157.0,172.0,3.0,529.0,3.5,0.20000000298023224
 24030452359,2026-08-18,Ciudad de Panamá Carrera,5.0,47.7,9.54,132.0,144.0,3.0,410.0,2.0,0.0
 24016329378,2026-08-17,Ciudad de Panamá Carrera,5.52,71.5,12.95,101.0,113.0,3.0,422.0,1.399999976158142,0.0
