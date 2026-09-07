@@ -1,5 +1,47 @@
 [
   {
+    "activityId": 24252944093,
+    "date": "2026-09-05",
+    "name": "Ancón Carrera",
+    "distance_km": 5.12,
+    "duration_min": 57.0,
+    "avg_pace_min_per_km": 11.13,
+    "avg_hr": 113.0,
+    "max_hr": 128.0,
+    "elevation_gain_m": 35.0,
+    "calories": 409.0,
+    "aerobic_training_effect": 1.7000000476837158,
+    "anaerobic_training_effect": 0.0
+  },
+  {
+    "activityId": 24237121289,
+    "date": "2026-09-03",
+    "name": "Ciudad de Panamá Carrera",
+    "distance_km": 6.03,
+    "duration_min": 52.0,
+    "avg_pace_min_per_km": 8.62,
+    "avg_hr": 138.0,
+    "max_hr": 167.0,
+    "elevation_gain_m": 5.0,
+    "calories": 523.0,
+    "aerobic_training_effect": 3.0,
+    "anaerobic_training_effect": 0.0
+  },
+  {
+    "activityId": 24216723124,
+    "date": "2026-09-02",
+    "name": "Ciudad de Panamá Carrera",
+    "distance_km": 7.01,
+    "duration_min": 69.6,
+    "avg_pace_min_per_km": 9.93,
+    "avg_hr": 124.0,
+    "max_hr": 151.0,
+    "elevation_gain_m": 9.0,
+    "calories": 570.0,
+    "aerobic_training_effect": 2.200000047683716,
+    "anaerobic_training_effect": 0.0
+  },
+  {
     "activityId": 24154458978,
     "date": "2026-08-28",
     "name": "Ciudad de Panamá Carrera",
