@@ -1,5 +1,19 @@
 [
   {
+    "activityId": 24784692546,
+    "date": "2026-10-19",
+    "name": "Ciudad de Panamá Carrera",
+    "distance_km": 5.01,
+    "duration_min": 32.3,
+    "avg_pace_min_per_km": 6.45,
+    "avg_hr": 160.0,
+    "max_hr": 174.0,
+    "elevation_gain_m": 6.0,
+    "calories": 454.0,
+    "aerobic_training_effect": 3.799999952316284,
+    "anaerobic_training_effect": 0.0
+  },
+  {
     "activityId": 24750164866,
     "date": "2026-10-16",
     "name": "Ciudad de Panamá Carrera",
